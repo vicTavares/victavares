@@ -1,5 +1,5 @@
 
-https://github.com/vicTavares/
+https://github.com/vicTavares/victavares/blob/main/gitCommands.txt/
 
 git init — Inicia um novo repositório Git na pasta atual.
 git clone <URL> — Baixa um repositório remoto para o seu computador.
