@@ -46,8 +46,8 @@ Abaixo estão os principais comandos do Git organizados em duas colunas para fac
 | Comando Git | Descrição |
 |-------------|---------|
 | `git --version` | Verifica se o Git está instalado. |
-| `git config --global user.name "Vicente Tavares"` | Define o nome do usuário para o Git. |
-| `git config --global user.email "vicente.tavares@prodam.am.gov.br"` | Define o email do usuário para o Git. |
+| `git config --global user.name "nome"` | Define o nome do usuário para o Git. |
+| `git config --global user.email "email"` | Define o email do usuário para o Git. |
 | `git clone https://git.prodam.am.gov.br/vicente.tavares.git` | Clona o repositório remoto para o computador. |
 | `cd vicente.tavares` | Navega para a pasta do repositório clonado. |
 | `code .` | Abre a pasta do repositório no Visual Studio Code. |
