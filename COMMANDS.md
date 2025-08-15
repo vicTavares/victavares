@@ -35,3 +35,24 @@ Abaixo estão os principais comandos do Git organizados em duas colunas para fac
 | `git stash pop` | Recupera as alterações guardadas com stash. |
 | `git config --global user.name "Nome"` | Define seu nome global para commits. |
 | `git config --global user.email "email"` | Define seu e-mail global para commits. |
+
+
+
+
+#############################
+
+
+
+
+| `git --version` | Verifica se o Git está instalado. |
+| `git config --global user.name "Vicente Tavares"` | Define o nome do usuário para o Git. |
+| `git config --global user.email "vicente.tavares@prodam.am.gov.br"` | Define o email do usuário para o Git. |
+| `git clone https://git.prodam.am.gov.br/vicente.tavares.git` | Clona o repositório remoto para o computador. |
+| `cd vicente.tavares` | Navega para a pasta do repositório clonado. |
+| `code .` | Abre a pasta do repositório no Visual Studio Code. |
+| `git config --global credential.helper cache` | Armazena temporariamente as credenciais de autenticação. |
+| `git config --global credential.helper store` | Salva as credenciais permanentemente (opcional). |
+| `git add .` | Adiciona todas as alterações para o commit. |
+| `git commit -m "Descrição das alterações"` | Salva as alterações localmente com uma mensagem. |
+| `git push origin main` | Envia as alterações para a branch main do repositório remoto. |
+| `git pull origin main` | Sincroniza o repositório local com as alterações remotas. |
