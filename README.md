@@ -3,8 +3,14 @@
 **Analista de Sistemas | Desenvolvedor Front-End | Especialista em Tecnologias e Redes Sociais**
 
 📍 SP & Manaus, Amazonas, Brasil  
-📧 [vicente.tavares@prodam.am.gov.br](mailto:victavares@hotmail.com)  
-🔗 [https://git.prodam.am.gov.br/vicente.tavares](https://github.com/vicTavares/)  
+📧 [victavares@hotmail.com](mailto:victavares@hotmail.com)  
+🔗 [https://github.com/vicTavares](https://github.com/vicTavares/)  
+
+📧 [vicente.tavares@prodam.am.gov.br](mailto:vicente.tavares@prodam.am.gov.br)  
+🔗 [https://git.prodam.am.gov.br/vicente.tavares](https://git.prodam.am.gov.br/vicente.tavares/)  
+
+
+
 💬 Disponível para colaborações, projetos e troca de ideias!
 
 ---
