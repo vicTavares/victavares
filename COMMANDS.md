@@ -43,7 +43,8 @@ Abaixo estão os principais comandos do Git organizados em duas colunas para fac
 
 
 
-
+| Comando Git | Descrição |
+|-------------|---------|
 | `git --version` | Verifica se o Git está instalado. |
 | `git config --global user.name "Vicente Tavares"` | Define o nome do usuário para o Git. |
 | `git config --global user.email "vicente.tavares@prodam.am.gov.br"` | Define o email do usuário para o Git. |
