@@ -57,3 +57,19 @@ Abaixo estão os principais comandos do Git organizados em duas colunas para fac
 | `git commit -m "Descrição das alterações"` | Salva as alterações localmente com uma mensagem. |
 | `git push origin main` | Envia as alterações para a branch main do repositório remoto. |
 | `git pull origin main` | Sincroniza o repositório local com as alterações remotas. |
+
+| ` -` | - |
+| `git remote add  "origin" (rep. remoto principal)  url` |  estabelecer conexão entre seu repositório local e um repositório remoto. |
+| `git remote remove origin` | Rmove um repositorio. |
+| `git remote rename origin novo-origin` | Renomeia um repositorio remoto. |
+
+
+
+
+
+
+
+
+
+
+
