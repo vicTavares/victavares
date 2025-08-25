@@ -67,6 +67,93 @@ Abaixo estão os principais comandos do Git organizados em duas colunas para fac
 
 
 
+# Git Glossary
+
+The following table provides definitions for common Git and version control terms.
+
+<table style="width: 100%; border-collapse: collapse;">
+  <thead>
+    <tr style="background-color: #f2f2f2; font-weight: bold;">
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Term</th>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Definition</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #f9f9f9;">
+      <td style="border: 1px solid #ddd; padding: 8px;">Branch</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">A separate line of development that allows to work on features or fixes independently.</td>
+    </tr>
+    <tr style="background-color: #e6f3ff;">
+      <td style="border: 1px solid #ddd; padding: 8px;">Clone</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">A local copy of the remote Git repository on the computer.</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="border: 1px solid #ddd; padding: 8px;">Commit</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">A snapshot of the project's current state at a specific point in time, along with a description of the changes made.</td>
+    </tr>
+    <tr style="background-color: #e6f3ff;">
+      <td style="border: 1px solid #ddd; padding: 8px;">Continuous delivery (CD)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">The automated movement of software through the software development lifecycle.</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="border: 1px solid #ddd; padding: 8px;">Continuous integration (CI)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">A software development process in which developers integrate new code into the code base at least once a day.</td>
+    </tr>
+    <tr style="background-color: #e6f3ff;">
+      <td style="border: 1px solid #ddd; padding: 8px;">Distributed version control system (DVCS)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">A system that keeps track of changes to code, regardless of where it is stored. Multiple users work on the same codebase or repository, mirroring the codebase on their computers if needed, while the distributed version control software helps manage synchronization amongst the various codebase mirrors.</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="border: 1px solid #ddd; padding: 8px;">Fork</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">A copy of a repository into your GitHub account.</td>
+    </tr>
+    <tr style="background-color: #e6f3ff;">
+      <td style="border: 1px solid #ddd; padding: 8px;">GitHub</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">A web-hosted service for the Git repository.</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="border: 1px solid #ddd; padding: 8px;">GitHub branches</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">A branch stores all files in GitHub. Branches are used to isolate changes to code. When the changes are complete, they can be merged back into the main branch.</td>
+    </tr>
+    <tr style="background-color: #e6f3ff;">
+      <td style="border: 1px solid #ddd; padding: 8px;">GitLab</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">A complete DevOps platform delivered as a single application. It provides access to Git repositories, controlled by source code management.</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="border: 1px solid #ddd; padding: 8px;">Git</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Free and open-source software distributed under the GNU General Public License. It is a distributed version control system that allows users to have a copy of their own project on their computer anywhere in the world.</td>
+    </tr>
+    <tr style="background-color: #e6f3ff;">
+      <td style="border: 1px solid #ddd; padding: 8px;">Merge</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">A process to combine changes from one branch to another, typically merging a feature branch into the main branch.</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="border: 1px solid #ddd; padding: 8px;">Pull request</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">A process used to request that someone review and approve your changes before they become final.</td>
+    </tr>
+    <tr style="background-color: #e6f3ff;">
+      <td style="border: 1px solid #ddd; padding: 8px;">Repository</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">A data structure for storing documents, including application source code. It contains the project folders that are set up for version control.</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="border: 1px solid #ddd; padding: 8px;">SSH Protocol</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">A method for secure remote login from one computer to another.</td>
+    </tr>
+    <tr style="background-color: #e6f3ff;">
+      <td style="border: 1px solid #ddd; padding: 8px;">Version control</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">A system that allows you to keep track of changes to your documents. This process allows you to recover older versions of the documents if any mistakes are made.</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="border: 1px solid #ddd; padding: 8px;">Working directory</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">A directory in your file system that contains files and subdirectories on your computer that are associated with a Git repository.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
 
 
 
